@@ -1,5 +1,5 @@
 
-import initAnimaNumeros from './animaNumeros.js';  // para carregar a contagem dos números 
+import AnimaNumeros from './animaNumeros.js';  // para carregar a contagem dos números 
 
 export default function initFetchAnimais() {
    async function fetchAnimais(url) {
@@ -23,7 +23,9 @@ export default function initFetchAnimais() {
             numerosGrid.appendChild(divAnimal);
          });
 
-         initAnimaNumeros();
+         const animaNumeros = new AnimaNumeros('[data-numero]', '.numeros', 'ativo');
+
+         animaNumeros.init();
 
       } catch (error) {
          console.error(error);
