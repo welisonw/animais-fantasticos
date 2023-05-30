@@ -5,12 +5,12 @@ import TabNav from './js/modules/navegacaoPorTabs.js';
 import Modal from './js/modules/modal.js';
 import Tooltip from './js/modules/tooltip.js';
 import fetchAnimais from "./js/modules/fetchAnimais.js";
+import fetchBitcoin from "./js/modules/fetchBitcoin.js";
 
 import initDropdownMenu from './js/modules/dropdownMenu.js';
 import initAnimacaoScroll from './js/modules/animacaoAoScroll.js';
 import initMenuMobile from './js/modules/menuMobile.js';
 import initHorarioFuncionamento from './js/modules/horarioFuncionamento.js';
-import initFetchBitcoin from "./js/modules/fetchBitcoin.js";
 
 
 // Scroll suave
@@ -36,6 +36,8 @@ tooltip.init();
 // Fetch Animais
 fetchAnimais('./animais-api.json', '.numeros-grid');
 
+// Fetch Bitcoin
+fetchBitcoin('https://www.blockchain.com/ticker', '.bitcoin-preco');
 
 
 initAnimacaoScroll();
@@ -43,4 +45,3 @@ initAnimacaoScroll();
 initDropdownMenu();
 initMenuMobile();
 initHorarioFuncionamento();
-initFetchBitcoin();
