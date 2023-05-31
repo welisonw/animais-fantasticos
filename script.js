@@ -6,9 +6,9 @@ import Modal from './js/modules/modal.js';
 import Tooltip from './js/modules/tooltip.js';
 import fetchAnimais from "./js/modules/fetchAnimais.js";
 import fetchBitcoin from "./js/modules/fetchBitcoin.js";
-
 import AnimacaoScroll from './js/modules/animacaoAoScroll.js';
-import initDropdownMenu from './js/modules/dropdownMenu.js';
+import DropdownMenu from "./js/modules/dropdownMenu.js";
+
 import initMenuMobile from './js/modules/menuMobile.js';
 import initHorarioFuncionamento from './js/modules/horarioFuncionamento.js';
 
@@ -43,6 +43,10 @@ fetchBitcoin('https://www.blockchain.com/ticker', '.bitcoin-preco');
 const animacaoAoScroll = new AnimacaoScroll('.js-animationScroll');
 animacaoAoScroll.init();
 
-initDropdownMenu();
+// Dropdown Menu
+const dropdownMenu = new DropdownMenu('[data-dropdown]');
+dropdownMenu.init();
+
+
 initMenuMobile();
 initHorarioFuncionamento();
