@@ -7,11 +7,11 @@ export default class Modal {
 
         // bind this ao callback para fazer referência ao objeto da classe
         this.eventToogleModal = this.eventToogleModal.bind(this);
-        this.clickOutModal = this.clickOutModal.bind(this);
+        this.outModal = this.outModal.bind(this);
     };
 
     // abre ou fecha o modal
-    toggleModal(event) {
+    toggleModal() {
         this.containerModal.classList.toggle('ativo');
     };
 
@@ -21,9 +21,9 @@ export default class Modal {
         this.toggleModal();
     };
 
-    // fecha o modal ao clicar fora dele
-    clickOutModal(event) {
-        if (event.target === this.containerModal) {  // event.target = onde o clique ocorreu
+    // fecha o modal ao clicar fora dele ou ao clicar a tecla ESC
+    outModal(event) {
+        if (event.target === this.containerModal || event.key === 'Escape') {  // event.target = onde o clique ocorreu
             this.toggleModal(event);
         };
     };
@@ -34,8 +34,9 @@ export default class Modal {
     
         this.botaoFechar.addEventListener('click', this.eventToogleModal);
     
-        this.containerModal.addEventListener('click', this.clickOutModal);
+        this.containerModal.addEventListener('click', this.outModal);
 
+        document.addEventListener('keyup', this.outModal);
     };
 
     init() {
