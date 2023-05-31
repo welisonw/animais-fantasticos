@@ -10,7 +10,7 @@ import AnimacaoScroll from './js/modules/animacaoAoScroll.js';
 import DropdownMenu from "./js/modules/dropdownMenu.js";
 import MenuMobile from './js/modules/menuMobile.js';
 
-import initHorarioFuncionamento from './js/modules/horarioFuncionamento.js';
+import HorarioFuncionamento from './js/modules/horarioFuncionamento.js';
 
 
 // Scroll suave
@@ -51,5 +51,6 @@ dropdownMenu.init();
 const menuMobile = new MenuMobile('[data-menu= "button"]', '[data-menu="list"]');
 menuMobile.init();
 
-
-initHorarioFuncionamento();
+// Horário de funcionamento
+const horarioFuncionamento = new HorarioFuncionamento('[data-semana]');
+horarioFuncionamento.init();

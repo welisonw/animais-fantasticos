@@ -12,7 +12,6 @@ export default class MenuMobile {
         this.openMenu = this.openMenu.bind(this);
     };
 
-    
     openMenu() {
         this.menuButton.classList.add('active');
         this.menuList.classList.add('active');
@@ -21,7 +20,6 @@ export default class MenuMobile {
             this.menuList.classList.remove('active');
         });
     };
-
 
     addMenuMobileEvents() {
         if (this.menuButton) {
