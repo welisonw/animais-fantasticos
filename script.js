@@ -8,8 +8,8 @@ import fetchAnimais from "./js/modules/fetchAnimais.js";
 import fetchBitcoin from "./js/modules/fetchBitcoin.js";
 import AnimacaoScroll from './js/modules/animacaoAoScroll.js';
 import DropdownMenu from "./js/modules/dropdownMenu.js";
+import MenuMobile from './js/modules/menuMobile.js';
 
-import initMenuMobile from './js/modules/menuMobile.js';
 import initHorarioFuncionamento from './js/modules/horarioFuncionamento.js';
 
 
@@ -47,6 +47,9 @@ animacaoAoScroll.init();
 const dropdownMenu = new DropdownMenu('[data-dropdown]');
 dropdownMenu.init();
 
+// Menu mobile
+const menuMobile = new MenuMobile('[data-menu= "button"]', '[data-menu="list"]');
+menuMobile.init();
 
-initMenuMobile();
+
 initHorarioFuncionamento();
