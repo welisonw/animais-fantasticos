@@ -9,9 +9,8 @@ import fetchBitcoin from "./js/modules/fetchBitcoin.js";
 import AnimacaoScroll from './js/modules/animacaoAoScroll.js';
 import DropdownMenu from "./js/modules/dropdownMenu.js";
 import MenuMobile from './js/modules/menuMobile.js';
-
 import HorarioFuncionamento from './js/modules/horarioFuncionamento.js';
-
+import SlideNav from "./js/modules/slide.js";
 
 // Scroll suave
 const scrollSuave = new ScrollSuave('.js-menu a[href^="#"]');
@@ -54,3 +53,11 @@ menuMobile.init();
 // Horário de funcionamento
 const horarioFuncionamento = new HorarioFuncionamento('[data-semana]');
 horarioFuncionamento.init();
+
+// Slide 
+const slide = new SlideNav('.slide-wrapper', '.slide');
+slide.init();
+
+// slide.addArrow('.prev', '.next');
+
+slide.addControl('.custom-controls');
