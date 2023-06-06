@@ -4,7 +4,7 @@ import debounceScroll from "./debounceScroll.js";
 export default class AnimacaoScroll {
     constructor(sections) {
         this.sections = document.querySelectorAll(sections);
-        this.windowMetade = window.innerHeight * 0.85; 
+        this.windowMetade = window.innerHeight * 0.60; 
 
         // bind do objeto da classe ao callback
         this.checkDistance = debounceScroll(this.checkDistance.bind(this), 17);

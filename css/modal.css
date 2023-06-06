@@ -18,7 +18,8 @@
 
 
 .modal {
-    min-width: 500px;
+    width: 80vw;
+    max-width: 600px;
     background-color: #ffffff;
     padding: 40px;
     border: 10px solid #fb5;
@@ -70,6 +71,7 @@
     width: 100%;
     padding: .5rem .5rem;
     box-sizing: border-box;
+    border: 2px solid #222;
 }
 
 .modal button[type='submit'] {
