@@ -58,6 +58,7 @@
         border: none;
         top: 1px;
         left: 161px;
+        width: 220px;
     }
 
     .js .dropdown-menu::before {

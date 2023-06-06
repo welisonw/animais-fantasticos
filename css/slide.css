@@ -1,13 +1,13 @@
 
-.galeria {
+.galeria ul {
    grid-column: 1 / -1;
 }
+
 
 
 .custom-controls {
    display: flex;
    justify-content: center;
-
    flex-wrap: wrap;
    cursor: pointer;
    grid-column: 1 / -1;
@@ -16,8 +16,8 @@
 .custom-controls li {
    opacity: .8;
    transform: scale(.8);
-   width: 60px;
-   height: 60px;
+   width: 55px;
+   height: 55px;
    border-radius: 50%;
    overflow: hidden;
    margin: 2px;

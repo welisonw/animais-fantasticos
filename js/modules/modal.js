@@ -21,10 +21,14 @@ export default class Modal {
         this.toggleModal();
     };
 
-    // fecha o modal ao clicar fora dele ou ao clicar a tecla ESC
+    // fecha o modal ao clicar fora dele ou ao clicar ESC
     outModal(event) {
-        if (event.target === this.containerModal || event.key === 'Escape') {  // event.target = onde o clique ocorreu
+        if (event.target === this.containerModal) {  // event.target = onde o clique ocorreu
             this.toggleModal(event);
+        };
+
+        if (event.key === 'Escape') {
+                this.containerModal.classList.remove('ativo');
         };
     };
 
