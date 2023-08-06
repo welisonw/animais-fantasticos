@@ -1,5 +1,5 @@
 # Animais Fantásticos 🦊
-[Sobre o projeto](https://github.com/welisonw/animais-fantasticos/edit/master/README.md#%EF%B8%8F-sobre-o-projeto) | [Funcionalidades](https://github.com/welisonw/animais-fantasticos/edit/master/README.md#%EF%B8%8F-funcionalidades)
+
 
 [Clique aqui para ver o site Animais Fantásticos](https://welisonw.github.io/animais-fantasticos/)
 
