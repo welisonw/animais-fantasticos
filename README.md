@@ -1,5 +1,8 @@
 # Animais Fantásticos 🦊
-[Deploy](#-acesse-o-deploy-da-aplicação) | [Sobre o projeto](#-sobre-o-projeto) | [Funcionalidades](#-funcionalidades)
+[Deploy](#-acesse-o-deploy-da-aplicação) 
+[Sobre](#-sobre-o-projeto)
+[Funcionalidades](#-funcionalidades)
+[Desenvolvimento](#-processo-de-desenvolvimento-e-aprendizagem)
 
 
 ## 🔗 Acesse o deploy da aplicação
