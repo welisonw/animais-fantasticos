@@ -1,6 +1,8 @@
 # Animais Fantásticos 🦊
 [Acesse o deploy da aplicação](#-acesse-o-deploy-da-aplicação) | [Sobre o projeto](#%EF%B8%8F-sobre-o-projeto) | [Funcionalidades](#%EF%B8%8F-funcionalidades) | [Processo de desenvolvimento e aprendizagem](#-processo-de-desenvolvimento-e-aprendizagem) | [Tecnologias](#%EF%B8%8F-tecnologias) | [Rodando o projeto localmente](#-rodando-o-projeto-localmente)
 
+![Preview](/img/preview.png)
+
 
 ## 🔗 Acesse o deploy da aplicação
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://welisonw.github.io/animais-fantasticos/)
