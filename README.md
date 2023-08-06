@@ -1,12 +1,8 @@
 # Animais Fantásticos 🦊
 <div align="center">
-  <a href="#-acesse-o-deploy-da-aplicação">Deploy</a> |
-  <a href="#-sobre-o-projeto">Sobre o projeto</a> |
-  <a href="#-funcionalidades">Funcionalidades</a> |
-  <a href="#-processo-de-desenvolvimento-e-aprendizagem">Desenvolvimento e aprendizagem</a> |
-  <a href="#-tecnologias">Tecnologias</a> |
 </div>
 
+  [Deploy](#-acesse-o-deploy-da-aplicação) | [Sobre o projeto](#-%EF%B8%8F-sobre-o-projeto) | [Funcionalidades](#-funcionalidades) | [Desenvolvimento](#-processo-de-desenvolvimento-e-aprendizagem) | [Tecnologias](#-tecnologias)
 
 
 
