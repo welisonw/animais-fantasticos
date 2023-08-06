@@ -59,3 +59,20 @@ A consolidação de todo o aprendizado se deu ao final do curso no processo de r
 - [ESLint](https://eslint.org/)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
+
+## 💻 Rodando o projeto localmente
+```bash
+# Clone este repositório
+$ git clone https://github.com/welisonw/animais-fantasticos.git
+
+# Entre na pasta do projeto
+$ cd animais-fantasticos
+
+# Instale as dependências
+$ npm install  ou  yarn install
+
+# Inicie o projeto no modo de desenvolvimento
+$ npm run dev  ou  yarn run dev
+
+# Rode o arquivo index.html em um servidor de desenvolvimento local (Ex.: Live Server)
+```
