@@ -32,13 +32,13 @@ Efeito para carregar na tela cada seção da página, de forma animada, somente 
 - **Accordion list**\
 Adicionado a seção FAQ, possibilitando exibir ou esconder uma resposta.
 
-- **Carrossel de fotos**
+- **Carrossel de fotos**\
 Criação de slide de fotos dos animais. Usuário pode passar de foto arrastando a foto atual ou clicando sobre o icone da foto do animal desejado.
 
-- **Fetch número de animais**
+- **Fetch número de animais**\
 Funcionalidade para exercitar como se trabalha de forma assíncrona em momentos que se depende da resposta de uma API. Criou-se um JSON com informações sobre total de animais de cada espécie, que é carregado de forma assíncrona e exibido na seção Números.
 
-- **Fetch de dados de bitcoin**
+- **Fetch de dados de bitcoin**\
 Funcionalidade para exercitar requisições assíncronas. Criou-se uma área na seção de contato para solicitar doações, para preencher esse campo, se faz uma requsição à uma API externa que retorna valores em Bitcoin, que são convertidos em relação ao Real.
 , calculamos em relação ao Real e imprimimos na tela.
 
