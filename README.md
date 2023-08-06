@@ -1,19 +1,11 @@
 # Animais Fantásticos 🦊
-<div align="center">
-</div>
-
-  [Deploy](#-acesse-o-deploy-da-aplicação) | [Sobre o projeto](#-%EF%B8%8F-sobre-o-projeto) | [Funcionalidades](#-funcionalidades) | [Desenvolvimento](#-processo-de-desenvolvimento-e-aprendizagem) | [Tecnologias](#-tecnologias)
-
-
+[Deploy](#-acesse-o-deploy-da-aplicação) | [Sobre o projeto](#%EF%B8%8F-sobre-o-projeto) | [Funcionalidades](#%EF%B8%8F-funcionalidades) | [Desenvolvimento](#-processo-de-desenvolvimento-e-aprendizagem) | [Tecnologias](#%EF%B8%8F-tecnologias)
 
 
 ## 🔗 Acesse o deploy da aplicação
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://welisonw.github.io/animais-fantasticos/)
 
 ## 🗒️ Sobre o projeto
-Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de API's, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
-
-## Sobre o projeto
 Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de API's, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
 
 ## ⚙️ Funcionalidades
