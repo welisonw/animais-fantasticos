@@ -13,6 +13,9 @@
 ## Sobre o projeto
 Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de API's, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
 
+## Sobre o projeto
+Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de API's, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
+
 ## ⚙️ Funcionalidades
 - **Scroll suave**\
 Efeito para adicionar uma navegação mais suave pela página, garantindo que ao clicar em um link interno a página role suavemente até a seção desejada.
