@@ -10,21 +10,21 @@
 Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de APIs, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
 
 ## ⚙️ Funcionalidades
-✓ Scroll suave
-✓ Dropdown menu
-✓ Menu mobile
-✓ Modal
-✓ CloseModal
-✓ Navegação por tabs
-✓ Animação ao scroll
-✓ Accordion list
-✓ Carrossel de fotos
-✓ Fetch número de animais
-✓ Fetch de dados de bitcoin
+✓ Scroll suave\
+✓ Dropdown menu\
+✓ Menu mobile\
+✓ Modal\
+✓ CloseModal\
+✓ Navegação por tabs\
+✓ Animação ao scroll\
+✓ Accordion list\
+✓ Carrossel de fotos\
+✓ Fetch número de animais\
+✓ Fetch de dados de bitcoin\
 ✓ Tooltip
 
 ## 📈 Processo de desenvolvimento e aprendizagem
-A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas _features_. Ao final, o projeto foi refatorado com a implementação de melhorias que permitiram a reutilização e melhor estruturação de código .
+A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas _features_. Ao final, o projeto foi refatorado com a implementação de melhorias que permitiram a reutilização e melhor estruturação dos códigos.
 
 ## 🛠️ Tecnologias
 - [HTML5](https://html.spec.whatwg.org/multipage/)
