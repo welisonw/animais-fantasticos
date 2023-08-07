@@ -7,7 +7,7 @@
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://welisonw.github.io/animais-fantasticos/)
 
 ## 🗒️ Sobre o projeto
-Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de API's, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
+Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de APIs, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
 
 ## ⚙️ Funcionalidades
 - **Scroll suave**\
