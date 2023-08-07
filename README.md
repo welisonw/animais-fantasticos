@@ -46,7 +46,7 @@ Funcionalidade para exercitar requisições assíncronas. Criou-se uma área na 
 , calculamos em relação ao Real e imprimimos na tela.
 
 - **Tooltip**\
-Efeito de criar uma caixa de texto estilo po-pup, quando o mouse é passado por cima do mapa na seção de contatos.
+Efeito de criar uma caixa de texto estilo pop-up, quando o mouse é passado por cima do mapa na seção de contatos.
 
 ## 📈 Processo de desenvolvimento e aprendizagem
 A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas features, o que tornou o aprendizado enriquecedor, porque era possível linkar a teoria com a prática e ter real noção do que era produzido.
