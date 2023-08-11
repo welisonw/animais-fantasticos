@@ -10,21 +10,45 @@
 Animais Fantásticos é um site de uma organização fictícia com informações de alguns animais que foi desenvolvido ao longo do curso de JavaScript Completo ES6 da Origamid, utilizando de conceitos como manipulação do DOM, consumo de APIs, modularização de scripts, aplicação de pacotes NPM, dentre outras _features_. O site é totalmente responsivo para vários tamanhos de telas e dispositivos!
 
 ## ⚙️ Funcionalidades
-✓ Scroll suave\
-✓ Dropdown menu\
-✓ Menu mobile\
-✓ Modal\
-✓ CloseModal\
-✓ Navegação por tabs\
-✓ Animação ao scroll\
-✓ Accordion list\
-✓ Carrossel de fotos\
-✓ Fetch número de animais\
-✓ Fetch de dados de bitcoin\
-✓ Tooltip
+- **Scroll suave**\
+Efeito para adicionar uma navegação mais suave pela página, garantindo que, ao clicar em um link interno, a página role suavemente até a seção desejada.
+
+- **Dropdown menu**\
+Efeito adicionado ao elemento Sobre, no menu principal, onde ao se passar o mouse por cima ou clicar abre-se um submenu com links para outras áreas do site relacionadas ao Sobre da aplicação.
+
+- **Menu mobile**\
+Menu hamburguer para dispositivos com resoluções menores.
+
+- **Modal**\
+Modal pop-up, que é exibido na tela quando o usuário clica em Login. Modal contém campo de login e senha.
+
+- **CloseModal**\
+Funcionalidade para fechar o modal sempre que o usuário clicar no X ou fora dele (modal) ou quando pressionar a tecla ESC.
+
+- **Navegação por tabs**\
+Utilizada na primeira seção do site, em que ao clicar na imagem de um animal o texto referente a ele é colocado em tela, ocultado o dos demais animais.
+
+- **Animação ao scroll**\
+Efeito para carregar na tela cada seção da página, de forma animada, somente quando estiver próxima de ser exibida.
+
+- **Accordion list**\
+Adicionado a seção FAQ, possibilitando exibir ou esconder uma resposta.
+
+- **Carrossel de fotos**\
+Criação de slide de fotos dos animais. Usuário pode passar de foto arrastando a foto atual ou clicando sobre o icone da foto do animal desejado.
+
+- **Fetch número de animais**\
+Funcionalidade para exercitar como se trabalha de forma assíncrona em momentos que se depende da resposta de uma API. Criou-se um JSON com informações sobre total de animais de cada espécie, que é carregado de forma assíncrona e exibido na seção Números.
+
+- **Fetch de dados de bitcoin**\
+Funcionalidade para exercitar requisições assíncronas. Criou-se uma área na seção de contato para solicitar doações. Para preencher esse campo, faz-se requsição à uma API externa que retorna o valor de um Bitcoin em Real. É sugerido o valor de R$ 100,00 para doação, sendo exibido na tela a quantia equivalente em Bitcoin.
+
+- **Tooltip**\
+Efeito de criar uma caixa de texto estilo pop-up, quando o mouse é passado por cima do mapa na seção de contatos.
 
 ## 📈 Processo de desenvolvimento e aprendizagem
-A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas _features_. Ao final, o projeto foi refatorado com a implementação de melhorias que permitiram a reutilização e melhor estruturação dos códigos.
+A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas _features_.
+A consolidação de todo o aprendizado se deu ao final do curso no processo de refatoração do projeto, onde foi possível ver o código em sua estrutura inicial e como era possível melhorá-lo, de forma a possibilitar o reúso de código e deixá-lo mais legível.
 
 ## 🛠️ Tecnologias
 - [HTML5](https://html.spec.whatwg.org/multipage/)
