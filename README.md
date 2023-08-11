@@ -48,6 +48,7 @@ Efeito de criar uma caixa de texto estilo pop-up, quando o mouse é passado por 
 
 ## 📈 Processo de desenvolvimento e aprendizagem
 A aplicação foi desenvolvida ao longo do curso conforme foram estudados os conceitos de JavaScript relevantes a cada uma dessas _features_.
+
 A consolidação de todo o aprendizado se deu ao final do curso no processo de refatoração do projeto, onde foi possível ver o código em sua estrutura inicial e como era possível melhorá-lo, de forma a possibilitar o reúso de código e deixá-lo mais legível.
 
 ## 🛠️ Tecnologias
